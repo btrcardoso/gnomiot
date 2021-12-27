@@ -1,6 +1,6 @@
 # GnomIoT
 
-Aplicação em Java para a disciplina de Modelagem do Curso de Bacharelado em Ciência da Computação da UFRRJ.
+Aplicação em Java de um Sistema para Casas Inteligentes. Este projeto foi feito para a disciplina de Modelagem do Curso de Bacharelado em Ciência da Computação da UFRRJ, ministrada pelo Professor Filipe Braida. 
 
 Criado por: Beatriz Cardoso, Gabriel Lacerda, João Mário, Leonardo Iglesias, Marcos Silva, Rafael Aranzate e Willian Caetano.
 
@@ -35,6 +35,7 @@ Os dispositivos serão cadastrados diretamente na residência. Através da ident
 ## Visão do Protótipo
 
 ![Screenshot from 2021-12-27 19-56-59](https://user-images.githubusercontent.com/72050839/147512669-67f2c792-a7af-429e-adf4-cac3c56e1dbd.png)
+![Screenshot from 2021-12-27 20-26-00](https://user-images.githubusercontent.com/72050839/147513383-d1791b67-34e8-41eb-8f15-a921b6025917.png)
 
 ![Screenshot from 2021-12-27 19-59-36](https://user-images.githubusercontent.com/72050839/147512691-c7000cab-ae17-459b-9b8d-28163f1c1f41.png)
 ![Screenshot from 2021-12-27 20-02-12](https://user-images.githubusercontent.com/72050839/147512695-15864045-e136-4c5f-8ebd-992a89015f3b.png)
